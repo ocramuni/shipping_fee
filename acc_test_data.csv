@@ -1,0 +1,13 @@
+total_band,premium,international,expected
+low,True,True,0
+low,True,False,0
+low,False,True,20
+low,False,False,10
+medium,True,True,0
+medium,True,False,0
+medium,False,True,20
+medium,False,False,5
+high,True,True,0
+high,True,False,0
+high,False,True,10
+high,False,False,0
